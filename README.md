@@ -2,6 +2,11 @@
 
 This is a python script to perform debayering for images recorded with Bonito camera model using opencv functions. 
 
+## Setup
+
+You can use the provided environment.yml to set up a suitable conda environment.  
+Please edit the last line of environment.yml according to your target path.
+
 ## Usage
 
 python debayer.py -h  
